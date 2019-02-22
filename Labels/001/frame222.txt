@@ -1,2 +1,5 @@
-1
+4
 300 237 356 303 surprised
+385 170 467 236 monkey
+379 236 455 306 thoughtful
+305 172 357 230 like a boss

@@ -1,2 +1,5 @@
-1
+4
 380 300 469 402 surprised
+518 202 631 305 monkey
+501 326 627 415 thoughtful
+401 194 483 278 like a boss

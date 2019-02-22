@@ -1,2 +1,4 @@
-1
+3
 177 292 226 339 surprised
+282 141 321 164 monkey
+483 150 513 176 like a boss

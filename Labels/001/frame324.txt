@@ -1,2 +1,4 @@
-1
+3
 501 101 579 159 surprised
+381 285 501 368 monkey
+351 146 426 202 like a boss

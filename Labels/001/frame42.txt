@@ -1,2 +1,4 @@
-1
+3
 326 161 434 287 surprised
+459 100 555 224 thoughtful
+266 6 390 125 like a boss

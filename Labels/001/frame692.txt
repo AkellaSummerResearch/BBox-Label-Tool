@@ -1,2 +1,5 @@
-1
+4
 107 47 203 184 surprised
+208 94 327 218 monkey
+457 164 531 266 thoughtful
+345 134 427 232 like a boss

@@ -1,2 +1,4 @@
-1
+3
 436 79 478 115 surprised
+431 316 503 378 monkey
+99 276 148 316 like a boss

@@ -1,2 +1,4 @@
-1
+3
 236 256 307 326 surprised
+340 242 437 334 thoughtful
+256 154 313 230 like a boss

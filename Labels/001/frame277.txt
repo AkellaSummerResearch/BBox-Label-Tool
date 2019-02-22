@@ -1,2 +1,5 @@
-1
+4
 215 245 320 362 surprised
+375 72 527 212 monkey
+375 236 517 366 thoughtful
+211 103 314 208 like a boss

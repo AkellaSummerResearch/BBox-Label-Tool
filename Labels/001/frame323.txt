@@ -1,2 +1,4 @@
-1
+3
 494 103 594 176 surprised
+389 290 505 380 monkey
+359 149 436 209 like a boss

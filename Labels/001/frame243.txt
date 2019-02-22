@@ -1,2 +1,5 @@
-1
+4
 260 213 306 252 surprised
+323 160 372 209 monkey
+323 209 367 260 thoughtful
+261 159 303 208 like a boss

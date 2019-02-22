@@ -1,2 +1,5 @@
-1
+4
 353 237 414 295 surprised
+444 153 509 226 monkey
+448 228 507 293 thoughtful
+353 152 415 220 like a boss

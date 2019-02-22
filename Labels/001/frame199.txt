@@ -1,2 +1,5 @@
-1
+4
 243 227 342 344 surprised
+390 77 533 211 monkey
+388 225 517 335 thoughtful
+239 96 339 197 like a boss

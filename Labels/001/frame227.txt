@@ -1,2 +1,5 @@
-1
+4
 303 227 350 275 surprised
+371 176 415 218 monkey
+366 221 410 266 thoughtful
+305 176 350 218 like a boss

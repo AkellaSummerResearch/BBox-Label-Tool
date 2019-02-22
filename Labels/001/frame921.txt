@@ -1,1 +1,3 @@
-0
+2
+127 96 169 170 thoughtful
+167 116 219 192 like a boss

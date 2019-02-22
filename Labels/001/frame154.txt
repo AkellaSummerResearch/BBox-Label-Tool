@@ -1,2 +1,4 @@
-1
+3
 409 391 525 479 surprised
+534 252 639 348 monkey
+379 271 481 358 like a boss

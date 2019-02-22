@@ -1,2 +1,4 @@
-1
+3
 370 194 490 312 surprised
+530 349 631 436 thoughtful
+257 333 347 413 like a boss

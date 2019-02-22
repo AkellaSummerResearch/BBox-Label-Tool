@@ -1,2 +1,5 @@
-1
+4
 298 178 368 242 surprised
+219 176 295 244 monkey
+75 169 146 232 thoughtful
+155 191 219 232 like a boss

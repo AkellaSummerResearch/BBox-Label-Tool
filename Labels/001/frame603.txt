@@ -1,2 +1,5 @@
-1
+4
 311 240 372 302 surprised
+379 234 459 297 monkey
+559 241 611 297 thoughtful
+472 236 531 304 like a boss

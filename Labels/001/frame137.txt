@@ -1,2 +1,4 @@
-1
+3
 260 329 435 476 surprised
+525 333 637 472 thoughtful
+267 130 417 283 like a boss

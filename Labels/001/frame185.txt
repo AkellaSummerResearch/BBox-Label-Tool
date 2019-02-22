@@ -1,2 +1,5 @@
-1
+4
 259 289 357 396 surprised
+403 178 505 292 monkey
+395 292 499 398 thoughtful
+262 174 347 265 like a boss

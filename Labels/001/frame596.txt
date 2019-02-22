@@ -1,2 +1,4 @@
-1
+3
 350 181 432 258 surprised
+433 178 515 238 monkey
+512 160 587 225 like a boss

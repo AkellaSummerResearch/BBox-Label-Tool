@@ -1,2 +1,5 @@
-1
+4
 409 232 459 281 surprised
+465 165 523 214 monkey
+477 221 520 278 thoughtful
+410 166 453 215 like a boss
